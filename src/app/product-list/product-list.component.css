@@ -1,4 +1,18 @@
+.price {
+  font-style: italic;
+  font-size: 0.6em;
+}
 
+.description-wrapper {
+  margin: 5px 0px;
+  padding: 4px;
+  border: gray 1px dotted;
+}
+
+.description-wrapper > .no-description {
+  font-style: italic;
+  font-size: 0.8em;
+}
 
 /*
 Copyright Google LLC. All Rights Reserved.
